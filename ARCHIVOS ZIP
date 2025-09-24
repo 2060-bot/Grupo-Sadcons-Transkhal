@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>GRUPO SADCONS INGENIERÍA - TRANS KHAL</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+        header { background: #a00; color: white; padding: 20px; text-align: center; }
+        nav { background: #333; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; }
+        .gallery { display: flex; flex-wrap: wrap; justify-content: center; padding: 20px; }
+        .gallery img { width: 300px; height: auto; margin: 10px; border: 3px solid #ccc; border-radius: 5px; transition: transform 0.3s; }
+        .gallery img:hover { transform: scale(1.05); border-color: #a00; }
+        footer { background: #222; color: white; text-align: center; padding: 10px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GRUPO SADCONS INGENIERÍA - TRANS KHAL</h1>
+        <p>Alta Ingeniería en Movimiento de Tierras y Construcción</p>
+    </header>
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Nosotros</a>
+        <a href="#">Servicios</a>
+        <a href="#">Proyectos</a>
+        <a href="#">Equipos</a>
+        <a href="#">Clientes</a>
+        <a href="#">Contacto</a>
+    </nav>
+    <section class="gallery">
+        <img src="TimePhoto_20250502_074233.jpg" alt="Proyecto SADCONS">
+        <img src="Imagen de WhatsApp 2025-09-23 a las 20.47.03_08a13741.jpg" alt="Proyecto SADCONS">
+        <img src="IMG-20210923-WA0005.jpg" alt="Proyecto SADCONS">
+        <img src="IMG-20210905-WA0007.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250313_141815.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250330_182039.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250513_100839.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250716_220549.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250402_091847.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250313_081134.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250619_214411.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250403_071739.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250704_095557.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250708_064214_1.jpg" alt="Proyecto SADCONS">
+        <img src="DJI_0010.JPG" alt="Proyecto SADCONS">
+        <img src="IMG_20250516_105521.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250624_113303.jpg" alt="Proyecto SADCONS">
+        <img src="IMG_20250723_163124.jpg" alt="Proyecto SADCONS">
+        <img src="DJI_0022.JPG" alt="Proyecto SADCONS">
+        <img src="IMG_20250729_151845.jpg" alt="Proyecto SADCONS">
+
+    </section>
+    <footer>
+        <p>&copy; 2024 GRUPO SADCONS INGENIERÍA - TRANS KHAL</p>
+    </footer>
+</body>
+</html>
